@@ -1,0 +1,25 @@
+case_id,activity,timestamp,resource,status,duration_ms
+CASE-001,Coleta_Telemetria_Sensores,2026-11-23 20:47:09,sensores_engine.py,Umidade_Critica_Detectada,115
+CASE-001,Captura_Imagem_Foliar,2026-11-23 20:47:09,main.py,Imagem_Processada,10
+CASE-001,Inferencia_Modelo_Keras,2026-11-23 20:47:20,keras_model.h5,0_Saudavel,10925
+CASE-001,Persistencia_e_Streaming_Kafka,2026-11-23 20:47:20,dashboard_consumer.py,Publicado,40
+CASE-002,Coleta_Telemetria_Sensores,2026-11-23 20:47:20,sensores_engine.py,Umidade_Critica_Detectada,115
+CASE-002,Captura_Imagem_Foliar,2026-11-23 20:47:20,main.py,Imagem_Processada,10
+CASE-002,Inferencia_Modelo_Keras,2026-11-23 20:47:20,keras_model.h5,0_Saudavel,55
+CASE-002,Persistencia_e_Streaming_Kafka,2026-11-23 20:47:20,dashboard_consumer.py,Publicado,40
+CASE-003,Coleta_Telemetria_Sensores,2026-11-23 20:47:20,sensores_engine.py,Umidade_Critica_Detectada,115
+CASE-003,Captura_Imagem_Foliar,2026-11-23 20:47:20,main.py,Imagem_Processada,10
+CASE-003,Inferencia_Modelo_Keras,2026-11-23 20:47:20,keras_model.h5,0_Saudavel,53
+CASE-003,Persistencia_e_Streaming_Kafka,2026-11-23 20:47:20,dashboard_consumer.py,Publicado,40
+CASE-004,Coleta_Telemetria_Sensores,2026-11-23 20:47:20,sensores_engine.py,Umidade_Critica_Detectada,115
+CASE-004,Captura_Imagem_Foliar,2026-11-23 20:47:20,main.py,Imagem_Processada,10
+CASE-004,Inferencia_Modelo_Keras,2026-11-23 20:47:20,keras_model.h5,1_Doente,54
+CASE-004,Persistencia_e_Streaming_Kafka,2026-11-23 20:47:20,dashboard_consumer.py,Publicado,40
+CASE-005,Coleta_Telemetria_Sensores,2026-11-23 20:47:20,sensores_engine.py,Umidade_Critica_Detectada,115
+CASE-005,Captura_Imagem_Foliar,2026-11-23 20:47:20,main.py,Imagem_Processada,10
+CASE-005,Inferencia_Modelo_Keras,2026-11-23 20:47:20,keras_model.h5,1_Doente,53
+CASE-005,Persistencia_e_Streaming_Kafka,2026-11-23 20:47:20,dashboard_consumer.py,Publicado,40
+CASE-006,Coleta_Telemetria_Sensores,2026-11-23 20:47:20,sensores_engine.py,Umidade_Critica_Detectada,115
+CASE-006,Captura_Imagem_Foliar,2026-11-23 20:47:20,main.py,Imagem_Processada,10
+CASE-006,Inferencia_Modelo_Keras,2026-11-23 20:47:20,keras_model.h5,1_Doente,50
+CASE-006,Persistencia_e_Streaming_Kafka,2026-11-23 20:47:20,dashboard_consumer.py,Publicado,40
